@@ -1,0 +1,23 @@
+@import './base.css';
+@import "tailwindcss";
+
+body {
+  @apply text-white;
+  background-image: radial-gradient(circle at center, #364153, #1e293b); /* example gradient */
+}
+
+.page{
+  @apply flex flex-col justify-center items-center;
+}
+
+.title{
+  @apply text-2xl font-extrabold mt-5 mb-10 leading-tight;
+}
+
+.description{
+  @apply flex flex-col justify-center gap-2 mx-40;
+}
+
+input{
+  @apply bg-gray-800 rounded-lg shadow-md;
+}

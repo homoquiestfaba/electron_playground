@@ -24,6 +24,7 @@
     "@heroicons/vue": "^2.2.0",
     "@tailwindcss/vite": "^4.1.11",
     "qrcode.vue": "^3.6.0",
+    "romans": "^3.1.0",
     "tailwindcss": "^4.1.11",
     "vue-router": "^4.5.1"
   },

@@ -89,6 +89,7 @@ const route = useRoute()
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Set up', href: '/about' },
-  { name: 'QR-Code', href: '/qr' }
+  { name: 'QR-Code', href: '/qr' },
+  { name: 'Romans Converter', href: '/roman'}
 ]
 </script>
